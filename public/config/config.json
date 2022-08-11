@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4E8F2aDd322c920A841129DB358cC21d33b2e711",
+  "SCAN_LINK": "https://polygonscan.com/token/0x4E8F2aDd322c920A841129DB358cC21d33b2e711",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypto Racer Ted",
+  "SYMBOL": "CRT",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crypto-racer-ted",
+  "SHOW_BACKGROUND": true
+}
